@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
 title: Different Audiences, Different Learning Goals
 uid: c14c285b-269f-9094-1ea8-32c8f19dadde

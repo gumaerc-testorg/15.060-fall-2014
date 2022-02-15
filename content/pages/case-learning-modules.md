@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Case Learning Modules
 uid: ecbb0ab0-f4bf-d744-4b27-9f92236df06d
 ---

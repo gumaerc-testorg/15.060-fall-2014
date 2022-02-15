@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
 ---
@@ -60,28 +62,6 @@ Required for [first-year Sloan MBA students](http:// https://mitsloan.mit.edu/mb
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Wooden lecture tables arranged in tiers; red padded chairs on wheels behind each row, grey carpet. Windows on rear wall; lectern with monitor at front of room.]({{< resource_file d2590910-301a-d002-9180-ff1c8e389b23 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures were held in classrooms such as this one with a capacity of 80, tiered seating, projectors, chalkboards, document camera, annotatable monitor, wireless mic, lecture capture, video conferencing, assistive listening, and wireless network.
-    
-*   ![Five rows of lecture tables with grey chairs; black sliding boards at the front of the room; a window on the left wall.]({{< resource_file 0d8a9adf-cef1-6a7f-6fdf-973f6817b779 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations were held in classrooms like this one. This room has a capacity of 70, tiered seating, video projector, sliding chalkboards, overhead projector, cable, data port at each seat, and wireless network.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

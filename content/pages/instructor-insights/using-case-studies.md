@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
 title: Using Case Learning Modules
 uid: ee3ae23f-94de-c779-664d-35b67c946cfd

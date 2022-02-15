@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding Hubbard Brewing Company
   Spreadsheet.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-060-data-models-and-decisions-fall-2014/897f808a43802e19fcb9f2cbab7d5b23_MIT15_060F14_HW4-HBC.pdf
+file: /media/courses/15-060-data-models-and-decisions-fall-2014/897f808a43802e19fcb9f2cbab7d5b23_MIT15_060F14_HW4-HBC.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 4: Hubbard Brewing Company Spreadsheet - 15.060 Data, Models, and
   Decisions - Fall 2014'

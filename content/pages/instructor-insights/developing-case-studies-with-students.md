@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
 title: Developing Cases with Students
 uid: a14f49c4-6983-21e6-2339-9ff39d9e3d8e

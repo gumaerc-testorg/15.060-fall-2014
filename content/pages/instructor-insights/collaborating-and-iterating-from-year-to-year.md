@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
 title: Collaborating and Iterating From Year to Year
 uid: 08a37ba1-b7f2-1b0c-134c-3f8618a8cd68

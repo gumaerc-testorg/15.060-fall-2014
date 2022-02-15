@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
 title: Offering a Menu of Ways to Learn
 uid: 6b84b2d1-3fcd-5515-469e-e2a4b44be3b5
