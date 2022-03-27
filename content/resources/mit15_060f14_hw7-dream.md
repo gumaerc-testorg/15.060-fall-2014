@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f41b5b04-9595-61f9-fa4b-04cc5ceb0484
 resourcetype: Document
 title: 'Homework 7: Dream Team Spreadsheet - 15.060 Data, Models, and Decisions -
   Fall 2014'

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f41b5b04-9595-61f9-fa4b-04cc5ceb0484
 resourcetype: Other
 title: MIT15_060F14_HW7-Dream.xls
 uid: 85d83619-f939-67d9-aa90-e1c7fc3c8c8b

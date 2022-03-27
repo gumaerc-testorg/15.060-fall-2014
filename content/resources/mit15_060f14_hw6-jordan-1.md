@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f41b5b04-9595-61f9-fa4b-04cc5ceb0484
 resourcetype: Other
 title: MIT15_060F14_HW6-Jordan.xls
 uid: 1a3b7d44-036e-db5e-982c-3b9fdb22219f

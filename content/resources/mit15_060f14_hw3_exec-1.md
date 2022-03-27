@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f41b5b04-9595-61f9-fa4b-04cc5ceb0484
 resourcetype: Other
 title: MIT15_060F14_HW3_EXEC.xls
 uid: 4dbdf75f-d9a7-dd6b-aa8f-a6b863e6a5c0
