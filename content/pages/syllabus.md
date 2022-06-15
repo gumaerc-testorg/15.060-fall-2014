@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, assignments, team work, required materials, recitations,
+  and policies for class participation and conduct.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -81,7 +84,7 @@ Class Participation
 
 {{< tableclose >}}
 
-By definition, class participation will be subjectively evaluated ([see below]({{< baseurl >}}/pages/syllabus#Class_Participation)).
+By definition, class participation will be subjectively evaluated ({{% resource_link a2c2012c-65f7-a019-c0b6-2c32f50361c3 "see below" "#Class_Participation" %}}).
 
 Much of your education will take place outside the classroom, as you study, review, and apply the topics to which you are introduced in class.
 

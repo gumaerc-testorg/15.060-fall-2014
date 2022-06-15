@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Perakis talks about how the course continually
+  is improved upon from year to year.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
