@@ -6,6 +6,7 @@ file: /courses/15-060-data-models-and-decisions-fall-2014/897f808a43802e19fcb9f2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Homework 4: Hubbard Brewing Company Spreadsheet - 15.060 Data, Models, a
 uid: 897f808a-4380-2e19-fcb9-f2cbab7d5b23
 ---
 This resource contains the information regarding Hubbard Brewing Company Spreadsheet.
-

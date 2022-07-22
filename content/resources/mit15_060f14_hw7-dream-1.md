@@ -5,6 +5,7 @@ file: /courses/15-060-data-models-and-decisions-fall-2014/85d83619f93967d9aa90e1
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_060F14_HW7-Dream.xls
 uid: 85d83619-f939-67d9-aa90-e1c7fc3c8c8b
 ---
 This is the special file regarding Dream.
-
