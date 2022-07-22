@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course and information
+  on the team and individual case assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: f41b5b04-9595-61f9-fa4b-04cc5ceb0484
 ---
@@ -7,19 +12,19 @@ uid: f41b5b04-9595-61f9-fa4b-04cc5ceb0484
 Homework Assignments
 --------------------
 
-[Homework 1: Probability (PDF)]({{< baseurl >}}/resources/mit15_060f14_hw1-f14)
+{{% resource_link c95f9a0b-3d39-bffe-a2e9-07a09e9a03c3 "Homework 1: Probability (PDF)" %}}
 
-[Homework 2: Simulation (PDF)]({{< baseurl >}}/resources/mit15_060f14_hw2_work)
+{{% resource_link 1755a2ec-1c66-a998-b1e2-f13264dfa9fc "Homework 2: Simulation (PDF)" %}}
 
-[Homework 3: Regression I (PDF)]({{< baseurl >}}/resources/mit15_060f14_hw3-f14); [EXEC-PAY Spreadsheet (XLS)]({{< baseurl >}}/resources/mit15_060f14_hw3_exec-1) ([PDF]({{< baseurl >}}/resources/mit15_060f14_hw3_exec))
+{{% resource_link dd6c861e-4a13-517d-284b-382d31cb4c22 "Homework 3: Regression I (PDF)" %}}; {{% resource_link 4dbdf75f-d9a7-dd6b-aa8f-a6b863e6a5c0 "EXEC-PAY Spreadsheet (XLS)" %}} ({{% resource_link 0eeb8cec-7214-b4f1-54bc-6f9e12a2bbf3 "PDF" %}})
 
-[Homework 4: Regression II (PDF)]({{< baseurl >}}/resources/mit15_060f14_hw4-hbc); [Hubbard Brewing Company Spreadsheet (XLS)]({{< baseurl >}}/resources/mit15_060f14_hw4-hbc-1) ([PDF]({{< baseurl >}}/resources/mit15_060f14_hw4-hbc)); this assignment was optional.
+{{% resource_link 897f808a-4380-2e19-fcb9-f2cbab7d5b23 "Homework 4: Regression II (PDF)" %}}; {{% resource_link 84657f60-66c1-9bba-ecdd-b68f464e3179 "Hubbard Brewing Company Spreadsheet (XLS)" %}} ({{% resource_link 897f808a-4380-2e19-fcb9-f2cbab7d5b23 "PDF" %}}); this assignment was optional.
 
-[Homework 5: Linear Optimization (PDF)]({{< baseurl >}}/resources/mit15_060f14_hw5-f14)
+{{% resource_link 12c10ecc-4829-6865-4258-a0306a074104 "Homework 5: Linear Optimization (PDF)" %}}
 
-[Homework 6: Production Management (PDF)]({{< baseurl >}}/resources/mit15_060f14_hw6-f14); [Jordon Alloy Table 7.38 (XLS)]({{< baseurl >}}/resources/mit15_060f14_hw6-jordan-1) ([PDF]({{< baseurl >}}/resources/mit15_060f14_hw6-jordan))
+{{% resource_link efae3d03-433e-e2e5-21f9-6064b2bf9907 "Homework 6: Production Management (PDF)" %}}; {{% resource_link 1a3b7d44-036e-db5e-982c-3b9fdb22219f "Jordon Alloy Table 7.38 (XLS)" %}} ({{% resource_link 50364d52-d6c1-2b17-a08e-b18b3351a079 "PDF" %}})
 
-[Homework 7: Discrete Optimization (PDF)]({{< baseurl >}}/resources/mit15_060f14_hw7-f14); [Dream Team Spreadsheet (XLS)]({{< baseurl >}}/resources/mit15_060f14_hw7-dream-1) ([PDF]({{< baseurl >}}/resources/mit15_060f14_hw7-dream))
+{{% resource_link e03d0fa1-a0a4-b0ba-e7aa-c6095fd6bde6 "Homework 7: Discrete Optimization (PDF)" %}}; {{% resource_link 85d83619-f939-67d9-aa90-e1c7fc3c8c8b "Dream Team Spreadsheet (XLS)" %}} ({{% resource_link d6c37f24-9563-1ade-2d69-4e7db85d60fd "PDF" %}})
 
 Team and Individual Case Assignments
 ------------------------------------

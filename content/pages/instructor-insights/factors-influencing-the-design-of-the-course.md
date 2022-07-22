@@ -1,15 +1,20 @@
 ---
 content_type: page
+description: In this section, Prof. Robert Freund discusses important factors his
+  group considered when designing 15.060 Data, Models, and Decisions.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
 title: Factors Influencing the Design of the Course
 uid: 7fda0a84-552b-65f3-daee-980dd77e6d64
 ---
-
 Several faculty members have contributed to developing _15.060 Data, Models, and Decisions_. In the following pages, Professors Robert Freund and Georgia Perakis discuss their experiences shaping and teaching this core MBA course.
 
-_In this section, Prof. Robert Freund discusses important factors his group considered when designing _15.060 Data, Models, and Decisions_._
+_In this section, Prof. Robert Freund discusses important factors his group considered when designing_ 15.060 Data, Models, and Decisions.
 
 One might think that support for developing a course with the name Data, Models, and Decisions at MIT Sloan would be a no-brainer - after all, we're at MIT! But in the nineties, when the course was developed, there had been a huge backlash against quantitative management curricula in general. And MIT Sloan was no less anti-quant than were our peer schools around the country. So against this backdrop, we felt we wanted to not only deliver a state-of-the-art quantitative curriculum, but we also wanted to ensure that students saw and understood the managerial value of the quantitative concepts. In short we wanted the students to experience the value of quantitative modeling both for their future employers as well as for their own professional development. So the twin pillars of the course were (i) the quantitative content, and (ii) the applications orientation and cases wherein the students would also come to understand the practical value of the quantitative content.
 

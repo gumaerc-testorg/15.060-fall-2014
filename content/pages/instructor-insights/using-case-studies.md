@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Prof. Robert Freund talks about teaching using the case
+  method, and how he got started writing his own cases for the course.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
 title: Using Case Learning Modules
 uid: ee3ae23f-94de-c779-664d-35b67c946cfd
@@ -17,4 +22,4 @@ When the materials for _15.060 Data, Models, and Decisions_ were originally deve
 
 I also want the students to be proud that they are at Sloan, and not be reminded of Harvard Business School or any of our other peer schools. If a student comes to Sloan and has to read HBS cases all the time, the student might feel that they might as well have gone to HBS instead. In a sense, it was as if you walked into IBM’s offices and everybody's using an Apple Mac. Instead, we wanted to have Sloan cases with the Sloan brand. After all, we should be promoting our own institution first.
 
-See the [Case Learning Modules section]({{< baseurl >}}/pages/case-learning-modules) for a list of cases used in this course.
+See the {{% resource_link ecbb0ab0-f4bf-d744-4b27-9f92236df06d "Case Learning Modules section" %}} for a list of cases used in this course.

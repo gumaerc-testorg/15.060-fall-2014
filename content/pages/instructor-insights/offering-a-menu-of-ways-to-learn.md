@@ -1,13 +1,19 @@
 ---
 content_type: page
+description: 'In this section, Prof. Robert Freund discusses how faculty members support
+  students in 15.060: Data, Models, and Decisions by offering them a menu of ways
+  to learn the material.'
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
 title: Offering a Menu of Ways to Learn
 uid: 6b84b2d1-3fcd-5515-469e-e2a4b44be3b5
 ---
-
-_In this section, Prof. Robert Freund discusses how faculty members support students in _15.060: Data, Models, and Decisions_ by offering them a menu of ways to learn the material._
+_In this section, Prof. Robert Freund discusses how faculty members support students in_ 15.060: Data, Models, and Decisions _by offering them a menu of ways to learn the material._
 
 The course typically has an enrollment of 360 students and proceeds at a very fast pace. Nonetheless, we’re constantly looking for ways to cover more material, rather than less, in order to add more value for the students. In the first lecture we tell the students that we don't necessarily expect them to grasp all of the content immediately—indeed, some students will understand content in real time, but for many it will take several days for the content to sink in. To support the students, there are several different ways for them to learn the material: through lectures, associated readings, discussions with teammates, course recitations, as well as by passively letting the material sink in over time.
 
