@@ -55,7 +55,7 @@ Permission of the instructor
 
 ### Requirements Satisfied
 
-Required for [first-year Sloan MBA students](https://mitsloan.mit.edu/mba/academics/mba-curriculum)
+Required for {{% resource_link "908548f4-044c-46b5-a2ec-9f8cbfa537bd" "first-year Sloan MBA students" %}}
 
 ### Offered
 
