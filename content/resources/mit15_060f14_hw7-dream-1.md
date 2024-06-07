@@ -2,6 +2,7 @@
 content_type: resource
 description: This is the special file regarding Dream.
 file: /courses/15-060-data-models-and-decisions-fall-2014/85d83619f93967d9aa90e1c7fc3c8c8b_MIT15_060F14_HW7-Dream.xls
+file_size: 25600
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Assignments
