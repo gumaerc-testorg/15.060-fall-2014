@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Jordan Alloy Table 7.38.
-file: /courses/15-060-data-models-and-decisions-fall-2014/50364d52d6c12b17a08eb18b3351a079_MIT15_060F14_HW6-Jordan.pdf
+file: /ol-ocw-studio-app/courses/15-060-data-models-and-decisions-fall-2014/50364d52d6c12b17a08eb18b3351a079_MIT15_060F14_HW6-Jordan.pdf
 file_size: 74214
 file_type: application/pdf
 learning_resource_types:
