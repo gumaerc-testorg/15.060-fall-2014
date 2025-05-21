@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Simulation.
-file: /ol-ocw-studio-app/courses/15-060-data-models-and-decisions-fall-2014/1755a2ec1c66a998b1e2f13264dfa9fc_MIT15_060F14_HW2_Work.pdf
+file: /courses/15-060-data-models-and-decisions-fall-2014/1755a2ec1c66a998b1e2f13264dfa9fc_MIT15_060F14_HW2_Work.pdf
 file_size: 111648
 file_type: application/pdf
 learning_resource_types:

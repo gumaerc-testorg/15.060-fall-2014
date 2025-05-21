@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding Jordan.
-file: /ol-ocw-studio-app/courses/15-060-data-models-and-decisions-fall-2014/1a3b7d44036edb5e982c3b9fdb22219f_MIT15_060F14_HW6-Jordan.xls
+file: /courses/15-060-data-models-and-decisions-fall-2014/1a3b7d44036edb5e982c3b9fdb22219f_MIT15_060F14_HW6-Jordan.xls
 file_size: 31232
 file_type: application/vnd.ms-excel
 learning_resource_types:
