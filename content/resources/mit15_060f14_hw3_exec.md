@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding EXEC-PAY Spreadsheet.
-file: /ol-ocw-studio-app/courses/15-060-data-models-and-decisions-fall-2014/0eeb8cec7214b4f154bc6f9e12a2bbf3_MIT15_060F14_HW3_EXEC.pdf
+file: /courses/15-060-data-models-and-decisions-fall-2014/0eeb8cec7214b4f154bc6f9e12a2bbf3_MIT15_060F14_HW3_EXEC.pdf
 file_size: 97266
 file_type: application/pdf
 learning_resource_types:
