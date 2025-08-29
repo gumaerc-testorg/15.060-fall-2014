@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-060-data-models-and-decisions-fall-2014/0d8a9adfcef16a7f6fdf973f6817b779_15-060_classroom-2.jpg
+file: /ol-ocw-studio-app/courses/15-060-data-models-and-decisions-fall-2014/0d8a9adfcef16a7f6fdf973f6817b779_15-060_classroom-2.jpg
 file_size: 59108
 file_type: image/jpeg
 image_metadata:
